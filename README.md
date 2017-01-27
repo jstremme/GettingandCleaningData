@@ -1,4 +1,4 @@
-### Getting and Cleaning Data
+# Getting and Cleaning Data
 ## Repository Contents
 README.md
 run_analysis.R
