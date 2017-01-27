@@ -6,13 +6,16 @@
    The data.table and dplyr libraries are dependencies for the script. The script also requires that the users working directory be set to the directory containing the Samsung data found here: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 ## Variables
   The variables in the output tables include all mean and standard deviation measurements included in the x_test and x_train files from experimentation in addition to the corresponding subject IDs as well as the activity performed by each subject.  These include the following activities with the smartphone:
-1.  WALKING
-2.  WALKING_UPSTAIRS
-3.  WALKING_DOWNSTAIRS
-4.  SITTING
-5.  STANDING
-6.  LAYING
+ 
+## Repository Contents
 
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
+  
 
 
 
