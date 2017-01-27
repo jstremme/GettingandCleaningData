@@ -4,7 +4,7 @@
 
 1. README.md
 2. run_analysis.R
-2. CodeBook.md
+3. CodeBook.md
 
 ## Introduction
   This repository contains my submission for the Getting and Cleaning Data Coursera course project.  In this project I cleaned the data found here: 
